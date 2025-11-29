@@ -1,5 +1,5 @@
 # Privacy Policy for NeonDrop Blocks
-**Last updated: [Date]**
+**Last updated: 29.11.2025**
 
 This Privacy Policy explains how **NeonDrop Blocks** ("the App", "we", "us", or "our") handles user information.  
 NeonDrop Blocks is a standalone puzzle game that operates entirely offline.  
